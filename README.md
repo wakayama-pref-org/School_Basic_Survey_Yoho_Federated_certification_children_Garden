@@ -1,4 +1,4 @@
-# School_Basic_Survey_Yoho_Federated_certification_children_Garden
+# school_basic_survey_yoho_federated_certification_children_garden
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
